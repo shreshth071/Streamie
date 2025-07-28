@@ -1,4 +1,4 @@
-# 📺 Streamie - Video Streaming UI
+# 📺 Streamie - Movie Streaming UI
 
 **Streamie** is a frontend-only video streaming UI inspired by platforms like Netflix and YouTube. Built using **HTML, CSS, JavaScript**, and optionally integrated with Firebase or YouTube embeds, this project showcases a modern streaming interface for educational or demo purposes.
 
